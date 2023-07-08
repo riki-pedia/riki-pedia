@@ -1,4 +1,4 @@
-### My profile is Dedicated to Rikipedia, my website. https://riki-pedia.github.io/
+### My profile is Dedicated to Rikipedia, my website. https://riki-pedia.org/
 
 <!--
 **riki-pedia/riki-pedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
